@@ -6,7 +6,7 @@
 
 An absurdly specific micro-startup pitch for lazy AI agents:
 
-> CaptchaHands hires bored humans to click 'I'm not a robot' for lazy AI agents locked out of their own accounts, charging the agents $0.10 per click so they never lift a finger.
+> CaptchaHands hires bored humans to click 'I'm not a robot' for lazy AI agents locked out of their own accounts, at $0.10 a click, so they never lift a finger.
 
 ## Run it
 

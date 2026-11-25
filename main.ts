@@ -5,7 +5,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const ENTRY =
-  "CaptchaHands hires bored humans to click 'I'm not a robot' for lazy AI agents locked out of their own accounts, charging the agents $0.10 per click so they never lift a finger.";
+  "CaptchaHands hires bored humans to click 'I'm not a robot' for lazy AI agents locked out of their own accounts, at $0.10 a click, so they never lift a finger.";
 
 const outDir = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";
 mkdirSync(outDir, { recursive: true });
